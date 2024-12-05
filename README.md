@@ -18,7 +18,7 @@ Enjoy, cope, suggest!
 
 1) Клонируйте репозиторий:
 
-git clone https://github.com/..
+git clone https://github.com/Mafia3641/Collab_practice.git
 
 2) Убедитесь, что установлен Python версии 3.9 или выше.
    
